@@ -1,0 +1,86 @@
+{
+    "defaults": {
+        "font": {
+            "name": "fira_code",
+            "size": "42",
+            "regular_path": "assets/fonts/fira_code.ttf"
+        }
+    },
+
+    "button": {
+        "font": {
+            "name": "Impact",
+            "size": "28",
+            "regular_path": "assets/fonts/impact.ttf"
+        },
+        "colours": {
+            "normal_bg": "#218057",
+            "hovered_bg": "#29a36e",
+            "active_bg": "#7082c2",
+            "normal_text": "#FFFFFF"
+        }
+    },
+
+
+    "@title_label": {
+        "font": {
+            "name": "Impact",
+            "size": "59",
+            "regular_path": "assets/fonts/impact.ttf"
+        },
+        "colours": {
+            "normal_text": "#444444"
+        }
+        
+    },
+
+    "@input_label": {
+        "font": {
+            "name": "Impact",
+            "size": "18",
+            "regular_path": "assets/fonts/impact.ttf"
+        },
+        "misc":{
+            "text_horiz_alignment": "left"
+        },
+        "colours":{
+            "normal_text": "#999999"
+        }
+    },
+
+    "@error_label": {
+        "font": {
+            "name": "Impact",
+            "size": "18",
+            "regular_path": "assets/fonts/impact.ttf"
+        },
+        "colours":{
+            "normal_text": "#e35656"
+        }
+    },
+
+    "@switch_button": {
+        "font": {
+            "name": "Impact",
+            "size": "18",
+            "regular_path": "assets/fonts/impact.ttf"
+        }
+    },
+
+    "@my_checkbox": {
+        "colours": {
+            "normal_text": "#444444"
+        },
+        "font": {
+            "name": "Impact",
+            "size": "16",
+            "regular_path": "assets/fonts/impact.ttf"
+        },
+        "misc": {
+            "box_shape": "rounded_rectangle",
+            "shape_corner_radius": 4,
+            "border_width": 2,
+            "shadow_width": 0
+        }
+    }
+}

@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+websockets
+aiofiles
+pydantic
+pygame
+pygame-gui
+httpx
+python-dotenv
